@@ -76,3 +76,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - OpenAI for providing the Whisper and GPT APIs
 - The open-source community for various tools and libraries used in this project
+
+
