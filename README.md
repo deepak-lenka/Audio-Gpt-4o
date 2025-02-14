@@ -72,10 +72,6 @@ ffmpeg -i input.mp3 input.wav  # Replace mp3 with your audio format
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 - OpenAI for providing the Whisper and GPT APIs
